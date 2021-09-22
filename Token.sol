@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at BscScan.com on 2021-09-16
-*/
-
 // SPDX-License-Identifier: MIT
 
 // Sources flattened with hardhat v2.5.0 https://hardhat.org
